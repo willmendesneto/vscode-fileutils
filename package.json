@@ -201,7 +201,7 @@
     "vscode-cache": "^0.3.0",
     "glob": "^7.1.2",
     "gitignore-to-glob": "github:patbenatar/gitignore-to-glob",
-    "bluebird": "^3.5.1",
+    "bluebird": "^3.7.2",
     "fs-extra": "^7.0.0",
     "trash": "^4.3.0",
     "copy-paste-win32fix": "^1.4.0"
